@@ -1,0 +1,5 @@
+outs:
+- md5: 8f92bbb95bfc59a68a22d96823f11d8a
+  size: 55493863
+  hash: md5
+  path: vqvae_clevrtex_params-res128.pth

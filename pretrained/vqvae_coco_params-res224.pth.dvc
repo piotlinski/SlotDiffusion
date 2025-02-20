@@ -1,0 +1,5 @@
+outs:
+- md5: e320e72a660ff3b054e593d86690697b
+  size: 55493863
+  hash: md5
+  path: vqvae_coco_params-res224.pth

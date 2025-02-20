@@ -1,0 +1,5 @@
+outs:
+- md5: 1bfa8fa4be06fab8c14139ddea977f8e
+  size: 55493863
+  hash: md5
+  path: vqvae_physion_params-res128.pth

@@ -1,0 +1,5 @@
+outs:
+- md5: b2d0b73c7e6b5480b94fe77bc982799c
+  size: 606289951
+  hash: md5
+  path: sa_ldm_clevrtex_params-res128.pth

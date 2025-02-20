@@ -1,0 +1,5 @@
+outs:
+- md5: af655b5de3ce8838a3f0e15d514bd328
+  size: 687544749
+  hash: md5
+  path: sa_ldm_dino_coco_params-res224.pth

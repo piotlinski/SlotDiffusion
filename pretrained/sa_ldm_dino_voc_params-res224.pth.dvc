@@ -1,0 +1,5 @@
+outs:
+- md5: 465d4bcb41295c0af2fa69d5d6721eef
+  size: 682622509
+  hash: md5
+  path: sa_ldm_dino_voc_params-res224.pth

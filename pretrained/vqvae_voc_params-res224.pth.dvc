@@ -1,0 +1,5 @@
+outs:
+- md5: a51b65c7bc8c956f6b5a0cca3f9327fb
+  size: 55493863
+  hash: md5
+  path: vqvae_voc_params-res224.pth

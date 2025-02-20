@@ -1,0 +1,5 @@
+outs:
+- md5: 09ca04077e03bbbf1b822d5f32cea550
+  size: 55493863
+  hash: md5
+  path: vqvae_movisolid_params-res128.pth

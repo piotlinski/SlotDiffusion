@@ -1,0 +1,5 @@
+outs:
+- md5: 4ef256bd67e5d50b92b96c6005cc5015
+  size: 599891001
+  hash: md5
+  path: savi_ldm_movitex_params-res128.pth

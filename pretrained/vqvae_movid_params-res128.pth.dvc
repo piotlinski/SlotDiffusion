@@ -1,0 +1,5 @@
+outs:
+- md5: 5cc28bb3834cb213ae64651b6ee5f1e3
+  size: 55493863
+  hash: md5
+  path: vqvae_movid_params-res128.pth

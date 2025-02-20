@@ -1,0 +1,5 @@
+outs:
+- md5: 8a2ccf1508e79bb73bccf164193e2c35
+  size: 631235515
+  hash: md5
+  path: savi_ldm_slotformer_physion_params-res128.pth

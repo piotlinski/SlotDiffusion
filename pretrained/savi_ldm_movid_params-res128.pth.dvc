@@ -1,0 +1,5 @@
+outs:
+- md5: 39d0dc4904c41e19a60d79e236c55cb0
+  size: 609861360
+  hash: md5
+  path: savi_ldm_movid_params-res128.pth

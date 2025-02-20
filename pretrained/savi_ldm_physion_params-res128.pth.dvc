@@ -1,0 +1,5 @@
+outs:
+- md5: 64800e0bf77e3095c4f1d664e52c4dac
+  size: 609855984
+  hash: md5
+  path: savi_ldm_physion_params-res128.pth

@@ -1,0 +1,5 @@
+outs:
+- md5: a45a024d296f8f6368fab87dd6cbfb4e
+  size: 55493863
+  hash: md5
+  path: vqvae_celeba_params-res128.pth

@@ -1,0 +1,5 @@
+outs:
+- md5: 1b9138a91819784864fa3ff1033b07ae
+  size: 609861360
+  hash: md5
+  path: savi_ldm_movie_params-res128.pth

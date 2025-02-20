@@ -1,0 +1,5 @@
+outs:
+- md5: 9b1235a0868835a58ca66fd6be49d345
+  size: 55493863
+  hash: md5
+  path: vqvae_movitex_params-res128.pth

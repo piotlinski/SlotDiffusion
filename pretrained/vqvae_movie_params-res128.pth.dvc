@@ -1,0 +1,5 @@
+outs:
+- md5: ce5d10336e622f13932b112c1f2bda02
+  size: 55493863
+  hash: md5
+  path: vqvae_movie_params-res128.pth

@@ -1,0 +1,5 @@
+outs:
+- md5: 309cc32a233dd837501e2be949570800
+  size: 599891001
+  hash: md5
+  path: savi_ldm_movisolid_params-res128.pth
