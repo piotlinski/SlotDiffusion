@@ -28,3 +28,8 @@ override-dependencies = [
 
 [tool.uv.sources]
 nerv = { git = "https://github.com/Wuziyi616/nerv.git", rev = "v0.2.0" }
+
+[dependency-groups]
+dev = [
+    "dvc[s3]>=3.42.0",
+]
